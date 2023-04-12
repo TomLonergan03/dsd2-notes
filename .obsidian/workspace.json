@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f9826d577337558c",
+        "id": "e4f98a9b059855f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d59618798cab2e5f",
+            "id": "1bd0a135249e887d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/W2P1 - Binary codes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\bar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 2/W2P1 - Binary codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 2/W2P1 - Binary codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 2/W2P1 - Binary codes.md"
+              }
             }
           }
         ]
@@ -135,9 +143,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d59618798cab2e5f",
-  "lastOpenFiles": []
+  "active": "1bd0a135249e887d",
+  "lastOpenFiles": [
+    "backing/Images/w2Thermometer.png",
+    "Week 2/W2P1 - Binary codes.md",
+    "backing/Images/w2sevenSeg.png",
+    "backing/Images/w2Gray.png",
+    "backing/Images/w2FoodCooker.png",
+    "Week 1/W1P1 - Introduction to digital signals.md",
+    "Week 1/W1P2 - Boolean algebra.md",
+    "Untitled.md",
+    "backing/Images/w1Nand.png",
+    "backing/Images/w1NandAnd.png",
+    "backing/Images/w1NorAnd.png",
+    "backing/Images/w1NandOr.png",
+    "backing/Images/w1NorOr.png",
+    "backing/Images/w1NandNot.png"
+  ]
 }
