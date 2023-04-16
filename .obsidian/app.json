@@ -5,6 +5,12 @@
     "Minterms",
     "maxterms",
     "minterm",
-    "maxterm"
+    "maxterm",
+    "unrepresentable",
+    "significand",
+    "Significand",
+    " Karnaug",
+    "PMOS",
+    "NMOS"
   ]
 }

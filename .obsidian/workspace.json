@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f98a9b059855f0",
+        "id": "adad0ccab8ad0717",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd0a135249e887d",
+            "id": "4c08154cdfb21f56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 2/W2P1 - Binary codes.md",
-                "mode": "source",
-                "source": false
+                "file": "backing/Images/w4n2CmosEx1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/W2P1 - Binary codes.md",
+                "file": "backing/Images/w4n2CmosEx1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/W2P1 - Binary codes.md",
+                "file": "backing/Images/w4n2CmosEx1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/W2P1 - Binary codes.md"
+                "file": "backing/Images/w4n2CmosEx1.png"
               }
             }
           }
@@ -147,21 +145,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bd0a135249e887d",
+  "active": "6ff59bf93016b3c0",
   "lastOpenFiles": [
-    "backing/Images/w2Thermometer.png",
-    "Week 2/W2P1 - Binary codes.md",
-    "backing/Images/w2sevenSeg.png",
-    "backing/Images/w2Gray.png",
-    "backing/Images/w2FoodCooker.png",
-    "Week 1/W1P1 - Introduction to digital signals.md",
-    "Week 1/W1P2 - Boolean algebra.md",
-    "Untitled.md",
-    "backing/Images/w1Nand.png",
-    "backing/Images/w1NandAnd.png",
-    "backing/Images/w1NorAnd.png",
-    "backing/Images/w1NandOr.png",
-    "backing/Images/w1NorOr.png",
-    "backing/Images/w1NandNot.png"
+    "Week 4 - Combinational logic/W4N2 - CMOS.md",
+    "backing/Images/w4n2CmosEx3.png",
+    "backing/Images/w4n2CmosEx2.png",
+    "backing/Images/w4n2CmosEx1.png",
+    "backing/Images/w4n2nInputCmosNor.png",
+    "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
+    "backing/Images/w4n2CmosOr.png",
+    "backing/Images/w4n2CmosAnd.png",
+    "backing/Images/w4n2CmosNor.png",
+    "backing/Images/w4n2nInputCmosNand.png",
+    "backing/Images/w4n2CmosNand3.png",
+    "backing/Images/w4n2CmosNand2.png",
+    "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
+    "Week 2 - Binary codes/W2N2 - Integer codes.md",
+    "Week 2 - Binary codes/W2N3 - Real number codes.md",
+    "Week 4 - Combinational logic",
+    "Week 2 - Binary codes/W2N1 - Non-number codes.md",
+    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md"
   ]
 }
