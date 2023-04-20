@@ -11,6 +11,14 @@
     "Significand",
     " Karnaug",
     "PMOS",
-    "NMOS"
+    "NMOS",
+    "strobed",
+    "(LUT",
+    "SIPO",
+    "mux",
+    "Karnaugh",
+    "Usecase",
+    "PISO",
+    "checkerboard"
   ]
 }

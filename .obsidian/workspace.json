@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adad0ccab8ad0717",
+        "id": "2a1586fcee08e0a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4c08154cdfb21f56",
+            "id": "8529a0599384b509",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "backing/Images/w4n2CmosEx1.png"
+                "file": "backing/Images/w5n1DFlipFlop.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w4n2CmosEx1.png",
+                "file": "backing/Images/w5n1DFlipFlop.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w4n2CmosEx1.png",
+                "file": "backing/Images/w5n1DFlipFlop.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w4n2CmosEx1.png"
+                "file": "backing/Images/w5n1DFlipFlop.png"
               }
             }
           }
@@ -147,23 +147,33 @@
   },
   "active": "6ff59bf93016b3c0",
   "lastOpenFiles": [
+    "Week 5 - Sequential logic/W5N7 - Parity bits.md",
+    "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
+    "backing/Images/w5n5SIPOParityCheck.png",
+    "Week 5 - Sequential logic/W5N6 - Multiplexer.md",
+    "Untitled.md",
+    "backing/Images/w5n5PISOParity.png",
+    "backing/Images/w5n7ParityLogicCircuit.png",
+    "backing/Images/w5n7ParityKarnaugh.png",
+    "backing/Images/w5n5PISOShiftRegister-1.png",
+    "w5n5.png",
+    "backing/Images/w5n5SIPOShiftRegister.png",
+    "backing/Images/w5n5PISOShiftRegister.png",
+    "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
+    "backing/Images/w5n6MuxTransmissionGate.png",
     "Week 4 - Combinational logic/W4N2 - CMOS.md",
-    "backing/Images/w4n2CmosEx3.png",
-    "backing/Images/w4n2CmosEx2.png",
-    "backing/Images/w4n2CmosEx1.png",
-    "backing/Images/w4n2nInputCmosNor.png",
+    "backing/Images/w5n6MuxNANDLogic.png",
     "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
-    "backing/Images/w4n2CmosOr.png",
-    "backing/Images/w4n2CmosAnd.png",
-    "backing/Images/w4n2CmosNor.png",
-    "backing/Images/w4n2nInputCmosNand.png",
-    "backing/Images/w4n2CmosNand3.png",
-    "backing/Images/w4n2CmosNand2.png",
+    "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
+    "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
+    "Week 5 - Sequential logic/W5N2 - Static Random Access Memory (SRAM).md",
+    "w5n1DLatchn1DLatch.png.md",
     "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
-    "Week 2 - Binary codes/W2N2 - Integer codes.md",
     "Week 2 - Binary codes/W2N3 - Real number codes.md",
-    "Week 4 - Combinational logic",
+    "Week 2 - Binary codes/W2N2 - Integer codes.md",
     "Week 2 - Binary codes/W2N1 - Non-number codes.md",
+    "Week 5 - Sequential logic",
+    "Week 4 - Combinational logic",
     "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md"
   ]
 }

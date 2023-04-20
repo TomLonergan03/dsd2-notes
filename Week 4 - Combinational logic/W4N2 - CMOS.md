@@ -6,11 +6,13 @@ There are 2 types of CMOS transistors:
 	- Poor conduction if A/B signals HIGH
 	- Good conduction if A/B signals LOW
 	- Used in pull-down networks
+	- Smaller
 - PMOS
 	- ON when G = LOW
 	- Good conduction if A/B signals HIGH
 	- Poor conduction if A/B signals LOW
 	- Used in pull-up networks
+	- Larger
 
 # CMOS inverter (NOT gate)
 ![[w4n2CmosNot.png]]
@@ -66,7 +68,7 @@ Similar to AND, we must use NOT NOR instead of directly implementing an OR gate:
 This means it is more efficient to implement a boolean expression using NAND/NOR than AND/OR
 
 # NAND vs NOR
-PMOS transistors require more space for equal drive strength than CMOS transistors.
+PMOS transistors require more space for equal drive strength than NMOS transistors.
 As NOR gates have PMOS transistors in series, while NAND gates have them in parallel, NAND gates are faster and generally smaller than NOR gates.
 
 # General CMOS gates
