@@ -221,6 +221,10 @@ sI
 strengths
 source
 stronger
+states
+solely
+share
+synchronised
 cover
 constructed
 can
@@ -382,6 +386,13 @@ checkerboard
 common
 check
 corrupted
+classes
+consists
+class
+conditional
+combination
+chart
+constructing
 all
 are
 and
@@ -493,6 +504,7 @@ aMX
 aii
 approximate
 although
+adds
 that
 the
 towards
@@ -599,6 +611,7 @@ thus
 tAp
 tB
 transmission
+tell
 from
 functional
 features
@@ -693,6 +706,11 @@ fusible
 fast
 fh
 forms
+flipped
+fed
+forward
+feedback
+formally
 TRUE
 Timing
 This
@@ -779,6 +797,7 @@ Tl
 TFr
 TL
 Tables
+They
 FALSE
 Fj
 FC
@@ -851,6 +870,9 @@ FN
 FCLL
 FDVV
 Fri
+FSM
+FSMs
+FIDATx
 Abstraction
 Alogorithmic
 Analogue
@@ -920,6 +942,7 @@ AAL
 ABk
 Ac
 Af
+ASM
 Layers
 Layer
 LK
@@ -995,6 +1018,7 @@ Lr
 Larger
 Lookup
 LUTs
+Language
 By
 BST
 BLkR
@@ -1194,6 +1218,8 @@ dxA
 dXl
 debouncing
 dEDD
+depending
+depend
 in
 increasing
 individual
@@ -1298,6 +1324,9 @@ incorrectly
 implementable
 iE
 iB
+impact
+includes
+internally
 layers
 layouts
 likelyhood
@@ -1384,6 +1413,8 @@ laws
 lmm
 lZx
 longer
+list
+language
 most
 microprocessor
 mL
@@ -1483,6 +1514,12 @@ mKhh
 mZu
 mS
 make
+machine
+move
+machines
+makes
+might
+moves
 working
 we
 whereas
@@ -1673,6 +1710,10 @@ pv
 pm
 parity
 pattern
+pipeline
+provided
+path
+purely
 over
 of
 other
@@ -1762,6 +1803,8 @@ original
 oIe
 odd
 our
+outputted
+once
 build
 by
 become
@@ -1852,6 +1895,9 @@ been
 better
 bii
 bb
+beginning
+based
+bypass
 quickly
 qg
 qqqc
@@ -2315,6 +2361,8 @@ electronically
 extra
 errors
 error
+earlier
+external
 Complexity
 CW
 Cb
@@ -2379,6 +2427,9 @@ CM
 CX
 CyI
 CG
+Class
+Chart
+CJaH
 hardware
 high
 hqw
@@ -2451,6 +2502,7 @@ hk
 hJj
 hV
 hW
+hard
 Gate
 Good
 GO
@@ -2594,6 +2646,8 @@ MDDd
 MGq
 MQ
 MN
+Modular
+May
 regions
 ranges
 range
@@ -2695,6 +2749,10 @@ registers
 rDV
 radio
 receiver
+resulted
+return
+repeating
+regularly
 nearly
 nonlinear
 na
@@ -2924,6 +2982,7 @@ until
 uoTQ
 upID
 uSC
+unclear
 gnome
 gf
 gHmb
@@ -2991,6 +3050,9 @@ ground
 general
 ggG
 gets
+govern
+governed
+give
 Wed
 Wh
 WS
@@ -3056,6 +3118,7 @@ WRt
 Wcoo
 WK
 Wd
+What
 Omm
 OW
 Ojl
@@ -3191,6 +3254,7 @@ NB
 NAr
 Non
 NnQ
+Now
 SW
 SiK
 So
@@ -3280,6 +3344,7 @@ Serial
 Sx
 SDDv
 Serialising
+State
 Xt
 XWa
 XD
@@ -3532,6 +3597,7 @@ kHOO
 ko
 kTkPf
 kinds
+known
 Qe
 QV
 QG
@@ -3700,6 +3766,7 @@ jP
 ja
 jxc
 jL
+join
 zq
 zi
 zT

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1586fcee08e0a2",
+        "id": "0105c4e86fd2e956",
         "type": "tabs",
         "children": [
           {
-            "id": "8529a0599384b509",
+            "id": "c11f2adacfadffdf",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "backing/Images/w5n1DFlipFlop.png"
+                "file": "backing/Images/w7n3TransitionLine.png"
               }
             }
           }
@@ -62,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "539d4f4c70d19585",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -83,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w5n1DFlipFlop.png",
+                "file": "backing/Images/w7n3TransitionLine.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w5n1DFlipFlop.png",
+                "file": "backing/Images/w7n3TransitionLine.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w5n1DFlipFlop.png"
+                "file": "backing/Images/w7n3TransitionLine.png"
               }
             }
           }
@@ -147,22 +155,26 @@
   },
   "active": "6ff59bf93016b3c0",
   "lastOpenFiles": [
-    "Week 5 - Sequential logic/W5N7 - Parity bits.md",
+    "Week 7 - Finite state machines/W7N3 - ASM Diagrams.md",
+    "backing/Images/w7n3FsmInitialState.png",
+    "backing/Images/w7n3FsmFinalState.png",
+    "backing/Images/w7n3TransitionLine.png",
+    "backing/Images/w7n3DecisionBox.png",
+    "backing/Images/w7n3StateBox.png",
+    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
+    "backing/Images/w7n3FsmCodeword.png",
+    "backing/Images/w7n3FsmRtl.png",
+    "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
+    "Week 7 - Finite state machines/W7N2 - FSM Classification.md",
+    "backing/Images/w7n1ModularFsm.png",
+    "backing/Images/w7n2Class4Fsm.png",
+    "backing/Images/w7n2Class3Fsm.png",
+    "Week 7 - Finite state machines",
     "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
-    "backing/Images/w5n5SIPOParityCheck.png",
+    "Week 5 - Sequential logic/W5N7 - Parity bits.md",
     "Week 5 - Sequential logic/W5N6 - Multiplexer.md",
-    "Untitled.md",
-    "backing/Images/w5n5PISOParity.png",
-    "backing/Images/w5n7ParityLogicCircuit.png",
-    "backing/Images/w5n7ParityKarnaugh.png",
-    "backing/Images/w5n5PISOShiftRegister-1.png",
-    "w5n5.png",
-    "backing/Images/w5n5SIPOShiftRegister.png",
-    "backing/Images/w5n5PISOShiftRegister.png",
     "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
-    "backing/Images/w5n6MuxTransmissionGate.png",
     "Week 4 - Combinational logic/W4N2 - CMOS.md",
-    "backing/Images/w5n6MuxNANDLogic.png",
     "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
     "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
     "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
@@ -173,7 +185,6 @@
     "Week 2 - Binary codes/W2N2 - Integer codes.md",
     "Week 2 - Binary codes/W2N1 - Non-number codes.md",
     "Week 5 - Sequential logic",
-    "Week 4 - Combinational logic",
-    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md"
+    "Week 4 - Combinational logic"
   ]
 }
