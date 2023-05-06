@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0105c4e86fd2e956",
+        "id": "9a22a907858a6999",
         "type": "tabs",
         "children": [
           {
-            "id": "c11f2adacfadffdf",
+            "id": "8297bc2066cf4b37",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "backing/Images/w7n3TransitionLine.png"
+                "file": "backing/Images/w7n4Class2Diagram.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w7n3TransitionLine.png",
+                "file": "backing/Images/w7n4Class2Diagram.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w7n3TransitionLine.png",
+                "file": "backing/Images/w7n4Class2Diagram.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w7n3TransitionLine.png"
+                "file": "backing/Images/w7n4Class2Diagram.png"
               }
             }
           }
@@ -156,19 +156,20 @@
   "active": "6ff59bf93016b3c0",
   "lastOpenFiles": [
     "Week 7 - Finite state machines/W7N3 - ASM Diagrams.md",
-    "backing/Images/w7n3FsmInitialState.png",
-    "backing/Images/w7n3FsmFinalState.png",
+    "Week 7 - Finite state machines/W7N4 - Design using ASM charts.md",
+    "backing/Images/w7n4LinkedFsmRtl.png",
+    "backing/Images/w7n4LinkedFsm.png",
+    "backing/Images/w7n4Class3v3.png",
+    "backing/Images/w7n4Class3v2.png",
+    "backing/Images/w7n4Class3v1.png",
+    "backing/Images/w7n4Class2Diagram.png",
+    "backing/Images/w7n4Class2Output.png",
+    "backing/Images/w7n4TrafficLightCodewords.png",
+    "backing/Images/w7n4TrafficLights.png",
     "backing/Images/w7n3TransitionLine.png",
-    "backing/Images/w7n3DecisionBox.png",
-    "backing/Images/w7n3StateBox.png",
     "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
-    "backing/Images/w7n3FsmCodeword.png",
-    "backing/Images/w7n3FsmRtl.png",
     "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
     "Week 7 - Finite state machines/W7N2 - FSM Classification.md",
-    "backing/Images/w7n1ModularFsm.png",
-    "backing/Images/w7n2Class4Fsm.png",
-    "backing/Images/w7n2Class3Fsm.png",
     "Week 7 - Finite state machines",
     "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
     "Week 5 - Sequential logic/W5N7 - Parity bits.md",
