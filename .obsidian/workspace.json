@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a22a907858a6999",
+        "id": "91c270d230c9655d",
         "type": "tabs",
         "children": [
           {
-            "id": "8297bc2066cf4b37",
+            "id": "dad5ec7510c2731b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "backing/Images/w7n4Class2Diagram.png"
+                "file": "Week 8 - Design synthesis 1/W8N3 - State code design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w7n4Class2Diagram.png",
+                "file": "Week 8 - Design synthesis 1/W8N3 - State code design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w7n4Class2Diagram.png",
+                "file": "Week 8 - Design synthesis 1/W8N3 - State code design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w7n4Class2Diagram.png"
+                "file": "Week 8 - Design synthesis 1/W8N3 - State code design.md"
               }
             }
           }
@@ -153,38 +155,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ff59bf93016b3c0",
+  "active": "dad5ec7510c2731b",
   "lastOpenFiles": [
+    "backing/Images/w8n3TransitionTableSimplified.png",
+    "Week 8 - Design synthesis 1/W8N3 - State code design.md",
+    "backing/Images/w8n3AsmToTransitionTable.png",
+    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
+    "backing/Images/w8n3TransitionTable.png",
+    "backing/Images/w8n3LinkingDesignViews.png",
+    "backing/Images/w8n3FsmDirectMap.png",
+    "backing/Images/w8n3Fsm1Hot.png",
+    "backing/Images/w8n3FsmUnitDistance.png",
+    "Week 2 - Binary codes/W2N1 - Non-number codes.md",
+    "backing/Images/w8n3Fsm.png",
+    "Week 8 - Design synthesis 1/W8N2 - FPGAs.md",
+    "Week 8 - Design synthesis 1/W8N1 - Fabrics.md",
+    "README.md",
+    "backing/Images/w8n28InputAnd.png",
+    "backing/Images/w8n2Interconnect.png",
+    "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
+    "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
+    "Week 5 - Sequential logic/W5N2 - Static Random Access Memory (SRAM).md",
+    "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
+    "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
+    "Week 8 - Design synthesis 1",
     "Week 7 - Finite state machines/W7N3 - ASM Diagrams.md",
     "Week 7 - Finite state machines/W7N4 - Design using ASM charts.md",
-    "backing/Images/w7n4LinkedFsmRtl.png",
-    "backing/Images/w7n4LinkedFsm.png",
-    "backing/Images/w7n4Class3v3.png",
-    "backing/Images/w7n4Class3v2.png",
-    "backing/Images/w7n4Class3v1.png",
-    "backing/Images/w7n4Class2Diagram.png",
-    "backing/Images/w7n4Class2Output.png",
-    "backing/Images/w7n4TrafficLightCodewords.png",
-    "backing/Images/w7n4TrafficLights.png",
-    "backing/Images/w7n3TransitionLine.png",
-    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
-    "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
     "Week 7 - Finite state machines/W7N2 - FSM Classification.md",
     "Week 7 - Finite state machines",
     "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
     "Week 5 - Sequential logic/W5N7 - Parity bits.md",
     "Week 5 - Sequential logic/W5N6 - Multiplexer.md",
-    "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
     "Week 4 - Combinational logic/W4N2 - CMOS.md",
     "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
-    "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
-    "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
-    "Week 5 - Sequential logic/W5N2 - Static Random Access Memory (SRAM).md",
     "w5n1DLatchn1DLatch.png.md",
     "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
     "Week 2 - Binary codes/W2N3 - Real number codes.md",
     "Week 2 - Binary codes/W2N2 - Integer codes.md",
-    "Week 2 - Binary codes/W2N1 - Non-number codes.md",
     "Week 5 - Sequential logic",
     "Week 4 - Combinational logic"
   ]

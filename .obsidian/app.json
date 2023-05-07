@@ -19,6 +19,11 @@
     "Karnaugh",
     "Usecase",
     "PISO",
-    "checkerboard"
+    "checkerboard",
+    "LUTs",
+    "MUXs",
+    "D-FFs",
+    "reflash",
+    "FFs"
   ]
 }

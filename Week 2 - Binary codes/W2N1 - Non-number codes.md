@@ -41,7 +41,7 @@ Examples:
 ![[w2Thermometer.png]]
 **Hamming distance** is the number of bits which differ between 2 codewords
 ![[w2Gray.png]]
-![[w2sevenSeg.png]]
+![[w2sevenSeg.png]] ^6c2d76
 ### ASCII
 7 bit code for representing graphical symbols
 Has a more complex but deliberate structure
