@@ -64,7 +64,7 @@ This FSM and the following code is an example of a 1-hot FSM.
 ## Direct State-Output Map
 Each state codeword contains the output codeword.
 If each output is unique then these can be used for the states, if not then extra bits are added to each codeword which distinguish between states.
-This design means that all outputs are taken directly from flip-flops in the state register, so output signal delay or skew can be tightly controlled.
+This design means that all outputs are taken directly from flip-flops in the state register, so output signal delay or [[W10N1 - Timing considerations#Clock skew|skew]] can be tightly controlled.
 Some applications require only a few states to be directly mapped.
 
 If we map `RUN` to $S_0$ and `LOOK` to $S_1$ then we can produce the following FSM and codewords. $S_2$ is added to distinguish between GRUMPY and DOZY, as both have the same outputs.

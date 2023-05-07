@@ -24,6 +24,13 @@
     "MUXs",
     "D-FFs",
     "reflash",
-    "FFs"
+    "FFs",
+    "resimulation",
+    "pmos",
+    "nmos",
+    "gg",
+    "dd",
+    "sims",
+    "simplifiable"
   ]
 }

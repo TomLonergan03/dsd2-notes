@@ -1,13 +1,13 @@
 CMOS, or Complementary Metal Oxide Semiconductors, are the dominant integrated circuit technology. 
 ![[w4n2Cmos.png]]
 There are 2 types of CMOS transistors:
-- NMOS
+- NMOS ^e7dd83
 	- ON when G = HIGH
 	- Poor conduction if A/B signals HIGH
 	- Good conduction if A/B signals LOW
 	- Used in pull-down networks
 	- Smaller
-- PMOS
+- PMOS ^a66c68
 	- ON when G = LOW
 	- Good conduction if A/B signals HIGH
 	- Poor conduction if A/B signals LOW
