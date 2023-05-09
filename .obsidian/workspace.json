@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc6dd7ffd5ef2b14",
+        "id": "73f718a8a9767d00",
         "type": "tabs",
         "children": [
           {
-            "id": "fac1875ac3da3057",
+            "id": "9be5e007f056871e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "backing/Images/w10n3FsmLoop.png"
+                "file": "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w10n3FsmLoop.png",
+                "file": "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w10n3FsmLoop.png",
+                "file": "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w10n3FsmLoop.png"
+                "file": "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md"
               }
             }
           }
@@ -153,10 +155,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ff59bf93016b3c0",
+  "active": "9be5e007f056871e",
   "lastOpenFiles": [
+    "README.md",
     "Week 10 - Design synthesis 2/W10N3 - State initialisation.md",
+    "Week 10 - Design synthesis 2/W10N2 - Logic function optimisation.md",
+    "Week 10 - Design synthesis 2/W10N1 - Timing considerations.md",
+    "Week 8 - Design synthesis 1/W8N3 - State code design.md",
+    "Week 8 - Design synthesis 1/W8N2 - FPGAs.md",
+    "Week 8 - Design synthesis 1/W8N1 - Fabrics.md",
+    "Week 7 - Finite state machines/W7N4 - Design using ASM charts.md",
+    "Week 7 - Finite state machines/W7N3 - ASM Diagrams.md",
+    "Week 7 - Finite state machines/W7N2 - FSM Classification.md",
+    "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
+    "Week 5 - Sequential logic/W5N7 - Parity bits.md",
+    "Week 5 - Sequential logic/W5N6 - Multiplexer.md",
+    "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
+    "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
+    "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
     "Week 5 - Sequential logic/W5N2 - Static Random Access Memory (SRAM).md",
+    "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
+    "Week 4 - Combinational logic/W4N2 - CMOS.md",
+    "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
+    "Week 2 - Binary codes/W2N3 - Real number codes.md",
+    "Week 2 - Binary codes/W2N2 - Integer codes.md",
+    "Week 2 - Binary codes/W2N1 - Non-number codes.md",
+    "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
+    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
     "backing/Images/w10n3FsmLoop.png",
     "backing/Images/w8n3TransitionTable.png",
     "backing/Images/w8n1AsmChart.png",
@@ -164,35 +189,13 @@
     "backing/Images/w7n4TrafficLights.png",
     "backing/Images/w8n3Fsm1Hot.png",
     "Pasted image 20230507233811.png",
-    "Week 10 - Design synthesis 2/W10N2 - Logic function optimisation.md",
-    "Week 4 - Combinational logic/W4N1 - Boolean implementation of arithmetic functions.md",
-    "Week 10 - Design synthesis 2/W10N1 - Timing considerations.md",
-    "README.md",
     "backing/Images/w10n1ModularFsmClockRate.png",
     "backing/Images/w10n1Class2FsmClock.png",
     "backing/Images/w10n1ClockSkew.png",
-    "Week 8 - Design synthesis 1/W8N3 - State code design.md",
-    "Week 8 - Design synthesis 1/W8N1 - Fabrics.md",
     "Week 10 - Design synthesis 2",
-    "Week 8 - Design synthesis 1/W8N2 - FPGAs.md",
-    "Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
-    "Week 2 - Binary codes/W2N1 - Non-number codes.md",
-    "Week 7 - Finite state machines/W7N1 - Finite state machines.md",
-    "Week 5 - Sequential logic/W5N3 - Dynamic Random Access Memory (DRAM).md",
-    "Week 5 - Sequential logic/W5N1 - D flip-flop.md",
-    "Week 5 - Sequential logic/W5N4 - Read Only Memory.md",
     "Week 8 - Design synthesis 1",
-    "Week 7 - Finite state machines/W7N3 - ASM Diagrams.md",
-    "Week 7 - Finite state machines/W7N4 - Design using ASM charts.md",
-    "Week 7 - Finite state machines/W7N2 - FSM Classification.md",
     "Week 7 - Finite state machines",
-    "Week 5 - Sequential logic/W5N5 - Shift Registers.md",
-    "Week 5 - Sequential logic/W5N7 - Parity bits.md",
-    "Week 5 - Sequential logic/W5N6 - Multiplexer.md",
-    "Week 4 - Combinational logic/W4N2 - CMOS.md",
-    "Week 1 - Digital signals and boolean algebra/W1N2 - Boolean algebra.md",
     "w5n1DLatchn1DLatch.png.md",
-    "Week 2 - Binary codes/W2N3 - Real number codes.md",
     "Week 5 - Sequential logic",
     "Week 4 - Combinational logic"
   ]

@@ -6,7 +6,7 @@ If we want to add 2 single bit numbers $A$ and $B$ then we can produce the truth
 | 0   | 0   | 0     | 0   |
 | 0   | 1   | 0     | 1   |
 | 1   | 0   | 0     | 1   |
-| 1   | 1   | 1      | 1   |
+| 1   | 1   | 1     | 0   |
 
 So:
 Carry = $A\cdot B$
